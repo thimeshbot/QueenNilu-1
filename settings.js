@@ -14,7 +14,7 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['94774991362'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
