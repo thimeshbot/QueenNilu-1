@@ -28,7 +28,7 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'THIMESH' 
 //👇 Sticker package name
 global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
 //👇 Sticker Author Name
